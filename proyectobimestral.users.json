@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67bc9e2aff32ccf234152dbd"
+  },
+  "username": "admin",
+  "email": "admin@example.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$7axLwHvtrTNnhSg+SXpd1A$l0nWHWi80IZCILHFDiYVJafqd6///A7r+TJ9GyQbegE",
+  "role": "ADMIN",
+  "createdAt": {
+    "$date": "2025-02-24T16:28:26.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T16:28:26.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c7220c6d5b012992c26499"
+  },
+  "name": "Updated Name",
+  "email": "updated@example.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$JzdwDEakxR8usBVfm8Ed4g$HXWCZJuW5MN+034IK5q/4vi3jlqv4UHahbWgUbaf2io",
+  "role": "CLIENT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cb0a800c8913491a816832"
+  },
+  "name": "Pepito Feito",
+  "email": "pepe@pepin.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$4qKVKI0oTbqt1YcAg4GaSA$EMljfFhxiv+nvCC9oRD7YuIfFcEzr8euZ2wECh204Po",
+  "role": "CLIENT",
+  "__v": 0
+}]

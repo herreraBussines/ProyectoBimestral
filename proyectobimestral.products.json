@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "67cb03e7b7cfdd47852c92c0"
+  },
+  "name": "Pizza",
+  "description": "Super duper delicius pizza",
+  "price": 45,
+  "stock": 25,
+  "category": {
+    "$oid": "67ca8bf74c6fb570169132f2"
+  },
+  "salesCount": 0,
+  "createdAt": {
+    "$date": "2025-03-07T14:34:15.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T14:41:08.710Z"
+  },
+  "__v": 0
+}]
